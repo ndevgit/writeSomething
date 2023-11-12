@@ -1,0 +1,15 @@
+@import './blocks/reset';
+@import './blocks/color-variables';
+@import './blocks/fonts';
+@import './blocks/body';
+@import './blocks/page';
+@import './blocks/container';
+@import './blocks/header';
+@import './blocks/footer';
+@import './blocks/main';
+@import './blocks/reusable';
+@import './blocks/media';
+
+// Запустить компиляцию SASS:
+
+// sass --watch ./styles/scss/style.scss:./styles/css/style.css

@@ -1,0 +1,11 @@
+.button {
+  cursor: pointer;
+  padding: 15px;
+  color: $color3;
+  font-size: 20px;
+  text-transform: uppercase;
+  border: 2px solid $color5;
+  transition: 0.3s;
+  transform: skewX(350deg);
+  border-radius: 1px;
+}
